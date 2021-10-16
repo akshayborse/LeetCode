@@ -1,7 +1,5 @@
 package array;
 
-import java.util.Arrays;
-
 class SquaresofaSortedArray {
     public static void main(String[] args) {
         SquaresofaSortedArray obj = new SquaresofaSortedArray();
